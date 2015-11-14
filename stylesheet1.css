@@ -1,0 +1,48 @@
+html { 
+  background: url(http://1.bp.blogspot.com/-Dg5me_rCRPY/U1OM0g3m5QI/AAAAAAAAHXA/zQjZbJ2tv0c/s1600/Serenity-Zen-Water-Stones-picture-Full-HD1920x1080.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+*
+{   margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	padding: 10px 10px 10px 10px;
+    color: white}
+
+div
+{display:inline;
+float: right; 
+margin:20px;
+text-align: center}
+
+#navbar
+    {
+	width: 100%;
+	font-family:"Courier New", Courier, monospace;
+    
+    font-size: 13px;
+}
+             } 
+table
+{
+    float:right;
+    }
+h1
+    {font-family:"Courier New", Courier, monospace;
+    
+    text-align: center
+    }
+
+#footer {
+width: 100%;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+text-align: center;
+}
