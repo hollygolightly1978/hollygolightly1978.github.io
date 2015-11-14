@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet2.css"/>
+		<title></title>
+	
+	<body>
+		<div id="header">
+			<div id="navbar">
+					<div id="contact">contact</div>
+					<div id="About">about me</div>
+					<div id="home">home</div>
+			</div>
+			</div>
+	<h1>Holly Selenfriend</h1>
+	</head>
+
+    <div id ="about-me">
+        <h3>The basics</h3>
+        <p>Hi, my name is Holly Selenfriend, as you may have guessed from the header on this page. I'm 36 years old, married and a mother to 2 wonderful kids and 2 dopey dogs. Aside from that, I wasn't really sure what else to say about myself. A few weeks ago, I was asked to be the "Mystery Reader" at my daughter's school. I had to give 3 hints as to who I was. I figured the 3 hints would be as good a place to start as any!</p>
+        <h3>1. I have red hair.</h3>
+        <p>Not real red hair. The kind that comes out of a box and gets all over your shower curtain when you're rinsing it out. I've been an "unnatural" red head since I was 16. Before that, my hair was mousey brown. They say blondes have all the fun, but I couldn't disagree more. I've had way more fun as a red-head than I ever did as a brunette. Plus, my husband has a thing for red heads!</p>
+        <h3>2. I like to make pickles.</h3>
+        <p>This is pretty self-explanitory. Growing up, my dad and I always planted huge gardens in the back yard, so, naturally, when I bought my own house, I started planting gardens, too. One year it was a "salsa" garden. The next was a "pasta sauce" garden. I decided to give pickles a whirl. I'm a good Polish girl, so pickles came naturally!</p>
+        <h3>3. I wear a labcoat.</h3>
+        <p>Microbiologist by day, code monkey by night! It's true. I spend my days as a laboratory technician at a major East coast hospital. My job entails growing out bacteria from infectious sites and determining what antibiotics will best kill the little buggers. I've been in the field for 10 years already! </p>
+        </div>
+    
+    
+    
+    <div id="footer">
+          <h1>Follow me</h1>
+          
+            <!-- Facebook -->
+    <a href="http://www.facebook.com/hselenfriend?u=https://simplesharebuttons.com" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
+    </a>
+        <!-- Tumblr-->
+    <a href="http://www.tumblr.com/igetthemeanreds?url=https://simplesharebuttons.com&amp;title=Simple Share Buttons" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/tumblr.png" alt="Tumblr" />
+    </a>
+     
+    <!-- Twitter -->
+    <a href="https://twitter.com/moarwine?url=https://simplesharebuttons.com&amp;text=Simple%20Share%20Buttons&amp;hashtags=simplesharebuttons" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
+    </a>
+    
+</div>
+    
+    
+
+    
+</html>
+                        
